@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dark theme colors -->
+
+    <color name="light_blue_background">#E1F5FE</color> <!-- Light blue background color -->
+    <color name="dark_blue">#0D47A1</color> <!-- Dark blue text color -->
+    <color name="white">#FFFFFF</color> <!-- White text color -->
+    <color name="light_blue_accent">#03A9F4</color> <!-- Accent color for FloatingActionButton -->
+
+
+    <color name="dark_background_color">#212121</color> <!-- Dark gray background color -->
+    <color name="colorAccent">#FF4081</color> <!-- Accent color for FloatingActionButton -->
+
+    <!-- You can add more colors as needed -->
+</resources>
